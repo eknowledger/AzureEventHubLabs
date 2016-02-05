@@ -1,0 +1,10 @@
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Sender.exe.config
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Sender.exe
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Sender.pdb
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\obj\Debug\Sender.exe
+C:\Projects\__Git\Labs\AzureEventHubLabs\EventHubDemo01\Sender\obj\Debug\Sender.pdb
