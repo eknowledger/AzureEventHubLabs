@@ -1,0 +1,23 @@
+# Extentions to ignore #
+###################
+*.csproj.user
+*.ccproj.user
+*.suo
+
+# global ignores #
+###################
+bin/
+obj/
+csx/
+TestResults/
+
+
+# Nuget Packages except the config file #
+###################
+packages/*
+Client/packages/*
+*/packages/*
+
+
+
+
